@@ -1,0 +1,19 @@
+{
+    "m_Version": 13,
+    "DisplayName": "Helicopter Parts",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Helicopter",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "UseCategoryOrder": 0,
+    "Categories": [
+        "Helicopter_Parts:0"
+    ],
+    "Items": {}
+}
