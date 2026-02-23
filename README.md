@@ -4,6 +4,8 @@ These are the Vanilla + Expansion item Expansion Market & Trader files. Everythi
 SIDE NOTE ON HELICOPTERS (and a little preaching)
 
 There is a Helicopter Parts Trader entry but it is not needed unless you want a specific parts dealer, say for ARMA or RFFS Helicopters & parts. 
+DO NOT PUT IT IN YOUR TRADER FOLDER IF YOU DO NOT HAVE A SPECIFIC PARTS TRADER SET UP. 
+
 The regular Aircraft Trader is configured to sell the Helicopters & parts, not buy them. You will see the category is set to 0
 
 0 = Can only be bought from this trader, but not sold: https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Trader-Settings
