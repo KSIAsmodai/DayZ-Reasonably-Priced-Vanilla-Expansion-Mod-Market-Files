@@ -115,8 +115,8 @@
         },		
         {
             "ClassName": "MK4Optic_Black",
-            "MaxPriceThreshold": 180,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 1900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
