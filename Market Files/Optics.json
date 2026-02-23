@@ -100,7 +100,7 @@
             ],
             "Variants": []
         },
-        {
+		{
             "ClassName": "m4_t3nrdsoptic",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 500,
@@ -112,9 +112,9 @@
                 "battery9v"
             ],
             "Variants": []
-        },
+        },		
         {
-            "ClassName": "kobraoptic",
+            "ClassName": "MK4Optic_Black",
             "MaxPriceThreshold": 180,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -124,7 +124,10 @@
             "SpawnAttachments": [
                 "battery9v"
             ],
-            "Variants": []
+            "Variants": [
+				"MK4Optic_Green",
+				"MK4Optic_Tan"
+			]
         },
         {
             "ClassName": "kashtanoptic",
