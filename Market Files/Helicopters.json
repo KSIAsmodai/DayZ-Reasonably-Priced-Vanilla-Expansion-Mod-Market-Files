@@ -1,0 +1,98 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_HELICOPTER",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "expansiongyrocopter",
+      "MaxPriceThreshold": 135000,
+      "MinPriceThreshold": 110000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "expansionhelicopterbattery",
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionbiggyrocopter",
+      "MaxPriceThreshold": 195000,
+      "MinPriceThreshold": 165000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 8,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "expansionhelicopterbattery",
+        "sparkplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionmh6",
+      "MaxPriceThreshold": 780000,
+      "MinPriceThreshold": 650000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "expansion_mh6_door_1_1",
+        "expansion_mh6_door_1_2",
+        "expansion_mh6_door_2_1",
+        "expansion_mh6_door_2_2"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuh1h",
+      "MaxPriceThreshold": 920000,
+      "MinPriceThreshold": 780000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 6,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "expansionuh1hdoor_1_1",
+        "expansionuh1hdoor_1_2",
+        "expansionuh1hdoor_2_1",
+        "expansionuh1hdoor_2_2"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionmerlin",
+      "MaxPriceThreshold": 1650000,
+      "MinPriceThreshold": 1400000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "expansionmerlinfrontwheel",
+        "expansionmerlinfrontwheel",
+        "expansionmerlinbackwheel",
+        "expansionmerlinbackwheel"
+      ],
+      "Variants": []
+    }
+  ]
+}

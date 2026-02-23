@@ -1,0 +1,133 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_ELECTRONICS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "personalradio",
+            "MaxPriceThreshold": 45,
+            "MinPriceThreshold": 37,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "megaphone",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 62,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "electronicrepairkit",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "cablereel",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "batterycharger",
+            "MaxPriceThreshold": 54,
+            "MinPriceThreshold": 45,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "baseradio",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "carbattery"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "rangefinder",
+            "MaxPriceThreshold": 240,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "nvgoggles",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 4500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "alarmclock_blue",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "alarmclock_green",
+                "alarmclock_red"
+            ]
+        },
+        {
+            "ClassName": "kitchentimer",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

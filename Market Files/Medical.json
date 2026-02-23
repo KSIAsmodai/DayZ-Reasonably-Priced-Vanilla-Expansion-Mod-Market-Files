@@ -1,0 +1,241 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_MEDICALS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "charcoaltablets",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "bandagedressing",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "disinfectantalcohol",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "purificationtablets",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "bloodtestkit",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "gasmask_filter",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "chelatingtablets",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "thermometer",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "vitaminbottle",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "disinfectantspray",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 4,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tetracyclineantibiotics",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "painkillertablets",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "startkitiv",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "heatpack",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "salinebag",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "bloodbagempty",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "firstaidkit",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "epinephrine",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "morphine",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "iodinetincture",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "anticheminjector",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

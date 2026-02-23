@@ -1,0 +1,153 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Helicopter Parts",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "expansionigniterplug",
+      "MaxPriceThreshold": 1450,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionhydraulichoses",
+      "MaxPriceThreshold": 3800,
+      "MinPriceThreshold": 3200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionhelicopterbattery",
+      "MaxPriceThreshold": 6200,
+      "MinPriceThreshold": 5200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionmerlinbackwheel",
+      "MaxPriceThreshold": 6500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionmerlinfrontwheel",
+      "MaxPriceThreshold": 5200,
+      "MinPriceThreshold": 4400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuh1hdoor_1_1",
+      "MaxPriceThreshold": 7200,
+      "MinPriceThreshold": 6100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuh1hdoor_1_2",
+      "MaxPriceThreshold": 7200,
+      "MinPriceThreshold": 6100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuh1hdoor_2_1",
+      "MaxPriceThreshold": 7200,
+      "MinPriceThreshold": 6100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuh1hdoor_2_2",
+      "MaxPriceThreshold": 7200,
+      "MinPriceThreshold": 6100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_mh6_door_1_1",
+      "MaxPriceThreshold": 6800,
+      "MinPriceThreshold": 5800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_mh6_door_1_2",
+      "MaxPriceThreshold": 6800,
+      "MinPriceThreshold": 5800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_mh6_door_2_1",
+      "MaxPriceThreshold": 6800,
+      "MinPriceThreshold": 5800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_mh6_door_2_2",
+      "MaxPriceThreshold": 6800,
+      "MinPriceThreshold": 5800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
