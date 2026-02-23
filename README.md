@@ -11,7 +11,7 @@ The regular Aircraft Trader is configured to sell the Helicopters & parts, not b
 0 = Can only be bought from this trader, but not sold: https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Trader-Settings
 
 This stops players from swooping to NWAF or Balota and grabbing a Helicopter to sell and make a mint. If you allow this, it will fuck your economy.
-Helicopters also allow players to totally bypass anything you've created in the map to flech out your DayZ world - it lets them immediately fly to
+Helicopters also allow players to totally bypass anything you've created in the map to flesh out your DayZ world - it lets them immediately fly to
 end-game, high tier events rather than slug it out running/walking or at least driving to places.
 
 If you allow lots of helicopters, you create giant loot crates where players can land at VMC or Tisy, loot the shit out of them and fly back to Green
