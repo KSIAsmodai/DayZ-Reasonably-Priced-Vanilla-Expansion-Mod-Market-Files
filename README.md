@@ -19,6 +19,6 @@ Mountain to rake in cash. You also box yourself into making only mega events tha
 cities with AI or Zombie encounters for people to find when they have to travel by land. At least cars can be stopped by an AI roadbloack. Helicopters?
 Nope. Your players will just be flying right over the top of all your hard work...
 
-PS. Don't debate me on prices. Just change them to what you want.
+PS. Don't conatct me to debate me on prices. Just change them to what you want.
 
 
